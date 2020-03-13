@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="206" viewBox="0 0 206 206">
+  <g id="Grupo_26" data-name="Grupo 26" transform="translate(-797 -860)">
+    <circle id="Elipse_6" data-name="Elipse 6" cx="103" cy="103" r="103" transform="translate(797 860)" fill="#03a63c"/>
+    <rect id="Rectángulo_87" data-name="Rectángulo 87" width="96" height="83" transform="translate(852 918)" fill="#049dd9"/>
+    <g id="today" transform="translate(89 436)">
+      <rect id="Path" width="130" height="130" transform="translate(746 462)" fill="rgba(0,0,0,0)"/>
+      <path id="Icon" d="M87.112,108H10.888A10.856,10.856,0,0,1,0,97.2V21.6A10.856,10.856,0,0,1,10.888,10.8h5.444V0H27.225V10.8H70.781V0H81.668V10.8h5.444A10.856,10.856,0,0,1,98,21.6V97.2A10.856,10.856,0,0,1,87.112,108ZM10.888,43.2h0v54H87.112v-54Zm0-21.6h0V32.4H87.112V21.6ZM49,81H21.781V54H49V81Z" transform="translate(762 467)"/>
+    </g>
+  </g>
+</svg>
